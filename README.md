@@ -25,6 +25,8 @@ split the line using .split
 
 ## PROGRAM:
 ```python
+#Developed by: Lubindher
+#Refrence no: 22009019
 with open ("text.txt") as fp:
   with open("file.txt","w") as fp1:
     line= fp.read()
